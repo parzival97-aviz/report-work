@@ -1,7 +1,5 @@
 #!/bin/bash
 printf "opening in vs"  
 error
-skjdg
-asdkg
-asjh
+edited - this is right
 code .
